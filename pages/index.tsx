@@ -98,7 +98,7 @@ const Home: NextPage = () => {
         <a
           href="https://kinsta.com"
           target="_blank"
-          rel="noreferrer noopener"
+          rel="noreferrer noopener nofollow"
           style={{ color: "#5333ed" }}
           className="hover:underline underline-offset-1"
         >
